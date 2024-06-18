@@ -17,6 +17,8 @@ Relatório Suporte
 
 Relatório Técnico
 -----------------
+![image](https://github.com/Migueldv06/miguel_custom_report/assets/97977665/dd64dc7c-5e07-4370-88eb-546c3186a9fa)
+
 
 Installation
 ------------
